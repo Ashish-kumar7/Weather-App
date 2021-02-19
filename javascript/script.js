@@ -1,7 +1,7 @@
 console.log('weather Application');
 
 const api={
-    key: "b3b5b1452400f151f6667dedb0254d32",
+    key: "",
     baseurl: "http://api.openweathermap.org/data/2.5/"
 };
 
